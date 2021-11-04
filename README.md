@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+  <!--
   <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
-  
+  -->
 </p>
 
